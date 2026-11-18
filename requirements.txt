@@ -1,0 +1,5 @@
+# framework responsável pela implementação dos serviços REST.
+fastapi>=0.115,<1
+
+# servidor ASGI utilizado para executar a aplicação FastAPI e receber pedidos HTTP.
+uvicorn>=0.30,<1
